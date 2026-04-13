@@ -142,25 +142,3 @@ I focus on building **scalable backend systems, APIs, and algorithm-driven appli
 <p align="center">
   ⚡ Clean Code • Scalable Systems • Smart Engineering ⚡
 </p>
-
----
-
-## 🔥 Why this README fits YOU perfectly
-
-* Matches your **actual projects (Dijkstra, booking system)**
-* Highlights **backend + system design strength**
-* Removes generic fluff → focuses on **engineering depth**
-* Shows **thinking, not just tools** (this is what recruiters want)
-
----
-
-### ⚡ Optional upgrades (if you want next level)
-
-I can:
-
-* Add **live API demo section**
-* Add **architecture diagrams**
-* Add **badges + visitor counter**
-* Turn this into a **top 1% GitHub profile**
-
-Just tell me 👍
